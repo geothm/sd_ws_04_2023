@@ -1,0 +1,42 @@
+Software Design Workshop
+Georgia Leustean
+Email: georgia.papp@irian.ro
+
+
+Part 1: Creating Good Lightweight Design:
+✔What is design?
+✔What is a good design?
+✔Characteristics of good design
+✔Cohesion
+✔Coupling
+✔Single Responsibility Principle
+ ✔long methods are major violators of this
+✔SLAP
+ ✔refactoring to honor SLAP
+✔Rules for simple design
+✔lab
+code/part1/lab/readme.txt
+
+Part 2: Designing for extensibility:
+✔What is extensibility?
+✔Tight vs. loose vs. low coupling
+✔Dependency Inversion Principle
+✔Example of DIP
+✔lab
+
+Part 3: Choosing between Inheritance vs. Delegation:
+✔Inheritance
+✔Benefits
+✔Drawbacks
+✔Delegation vs. inheritance
+✔When to use inheritance?
+✔Liskov's Substitution Principle
+✔Good examples of LSP
+✔Examples of LSP violation
+✔lab
+
+
+Resources:
+1.  https://www.youtube.com/watch?v=llGgO74uXMI&t=4718&ab_channel=Devoxx
+2.  https://www.youtube.com/watch?v=wY_CUkU1zfw&t=2170s&ab_channel=Devoxx
+3.  https://www.doc.ic.ac.uk/~susan/475/unmain.html
