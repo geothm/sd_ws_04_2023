@@ -1,6 +1,7 @@
 Software Design Workshop
 Georgia Leustean
 Email: georgia.papp@irian.ro
+https://prezi.com/view/AzwsbeiIQcRYlXcBF7rc/
 
 
 Part 1: Creating Good Lightweight Design:
