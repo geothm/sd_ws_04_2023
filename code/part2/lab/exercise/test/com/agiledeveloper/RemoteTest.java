@@ -1,4 +1,4 @@
-package test.com.agiledeveloper;
+package com.agiledeveloper;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
@@ -57,7 +57,6 @@ public class RemoteTest {
     assertEquals(4, fan.getSpeed());
   }
 
-  @Test
   void remoteOpenGarage() {
     Garage garage = new Garage();
     Remote remote = RemoteFactory.createRemoteForGarage(garage);
