@@ -1,0 +1,33 @@
+Ce de design-ul?
+
+Coding este parte din design.
+
+Designul este o mapare a cerintelor (equirements) la limbaj, frameworkuri, tehnologii.
+
+Daca cerintele se schimba, si designul de schimba.
+
+Designul depinde intens de limbaj.
+
+Cu cat e mai puternic limbajul, cu atat e mai putina nevoie de design patterns.
+
+Ce face un design sa fie bun?
+-sa fiw mentenabil
+- sa fie extensibil (?)
+- sa fie usor de inteles
+- sa fie relevant
+- sa nu fie over/under engineered
+- sa fie modular (composabil/decomposabil)
+- sa fie testabil
+- sa fie predictibil
+- sa fie robust
+- sa fie secure
+- sa fie simplu (sa evite complexitatea inutila)
+- sa fie bine documentat
+....
+
+Daca codul nu e testabil e pt ca design-ul e naspa.
+
+Software-ul are entropie.
+
+Experienta e abilitatea de a nu scrie cod.
+
