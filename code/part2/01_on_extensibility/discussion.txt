@@ -1,0 +1,18 @@
+Extensibility
+
+Abilitatea de a aduce noi feature-uri si de a modifica reasonably feateruri cu schimbari minime de cod.
+
+Extensibility is a slippery slope.
+
+Pentru extensibility trebuie sa anticipam foarte bine.
+
+Daca anticipam foarte bine avem good extensibility.
+Daca anticipam prost avem multa complexitate inutila.
+
+Niciun cod nu e arbitrar extensibil.
+
+processOrder(Order order, Cash cash);
+
+processOrder(Order order, PayentMethod paymentMethod);
+
+YAGNI(y) (you aren't going to need it)

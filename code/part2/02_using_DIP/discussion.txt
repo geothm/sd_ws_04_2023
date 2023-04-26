@@ -1,0 +1,11 @@
+Dependency Inversion Principle
+
+Human -----> Clock
+
+Human ----> Alarm
+             ^
+             |
+             |
+  ----------------------------------------
+  |             |                       |
+  Clock         Smartphone              TV
