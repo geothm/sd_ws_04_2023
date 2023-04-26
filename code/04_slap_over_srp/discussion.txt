@@ -1,0 +1,42 @@
+SRP - Single Responsibility Principle
+
+- O bucata de cod ar trebui sa aiba o singura responsabilitate
+
+- Ar trebui sa aiba un singur motivsa se schimbe
+
+Good principle, dar nu stim ce inseamna responsabilitatea.
+
+"Daca o functie ia mai mult de 2 parametri it fails SRP"
+"Daca o functie are un if/else it fails SRP"
+
+Pareri extreme.
+
+Cate randuri de cod sunt o metoda prea lunga?
+1000? da
+100? da
+10? depinde
+
+Din perspectiva user-ul codului nu conteaza daca o metoda e lunga.
+Din perspectiva maintainerului poate sa fie o problema.
+
+SLAP - Single Level of Abstraction Principle
+
+Option 1:
+Coleg 1 : "Ce ai facut in weekend?"
+tu : "Sambata am fost in parc, duminica am fost la un film."
+Coleg 1 : "Care parc?"
+tu: "Cel din centru"
+Coleg 1 : "E potrivit pt copii?"
+...
+
+Option 2:
+Coleg 1 : "Ce ai facut in weekend?"
+tu: "Pai, sambata am luat masina am condus 2 km, o inceput sa ploua, o devenitdrumul alunecos, am mai condus putin, mi s-o facut sete..."
+Coleg 1: "Scuze, ai innebunit?"
+tu: "Nu, m-am gandit sa-ti povestesc cum mi-a fost weekendul la fel cum scrii tu cod"
+
+Comunicam in knowledge chunks.
+
+Fiecare functie ar trebui sa se concentrezepe un level of abstraction.
+
+Instructiunile dintr-o functie ar trebui sa fie la acelasi nivel.
