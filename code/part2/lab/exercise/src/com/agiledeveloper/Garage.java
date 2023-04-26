@@ -1,4 +1,4 @@
-package src.com.agiledeveloper;
+package com.agiledeveloper;
 
 public class Garage {
   private boolean open;

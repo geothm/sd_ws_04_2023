@@ -1,4 +1,4 @@
-package src.com.agiledeveloper;
+package com.agiledeveloper;
 
 public class Fan {
   private int speed = 5;
