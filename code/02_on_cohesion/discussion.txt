@@ -1,0 +1,19 @@
+Ce spuneti daca vedeti pe o masa o soseta si o furculita?
+- cineva are copii mici
+- ce fac cu ele impreuna?
+- nu manca cu furculita ai( sau cu soseta)
+- ce s-a intamplat aici
+...
+
+Cohesion tine de context.
+
+There is no one cohesion.
+
+Choesion:
+Lucrurile similare stau impreuna, cele diferite stau separat.
+
+Codul ajunge sa fie narrow si focused, si face un lucru (bine).
+
+Putem avea prioritate in cohesion bazata pe tehnologii (pt microservicii)
+
+Putem avea prioritate bazata pe business logic (monolit)
