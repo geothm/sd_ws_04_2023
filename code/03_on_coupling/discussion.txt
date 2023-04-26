@@ -1,0 +1,12 @@
+Coupling
+
+Vrem sa avem loose coupling, si low coupling.
+
+Low coupling este cand depind de mai putine chestii.
+
+Loose coupling este cand depind de ceva stabil (interfete).
+
+In limbajele puternic tipizate (Java) loose coupling-ul se optine prin interfete si polimorifsm.
+Limbajele dinamice (JavaScript) se bucura by default de loose coupling.
+
+Design by contract (types) vs design by capability.
